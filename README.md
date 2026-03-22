@@ -25,8 +25,8 @@
 
 На скріншотах нижче відображено відтворення відео: 
     
-![img_1.png](screenshots/img_1.png)
 ![img_2.png](screenshots/img_2.png)
+![img.png](screenshots/img_4.png)
 
 Для відтворення аудіо використано MediaPlayer (mediaPlayer = new MediaPlayer();). Встановлення файлу відбувається за допомогою mediaPlayer.setDataSource(this, currentUri).
 Перед створенням нового MediaPlayer старий видаляється (mediaPlayer.release()), щоб уникнути помилки.
